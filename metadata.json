@@ -1,0 +1,6 @@
+{
+  "name": "AetherProxy · High-Performance C++ Reverse Proxy & 3D Network Engine",
+  "description": "High-performance C++ modern reverse proxy with epoll multi-reactor workers, SO_REUSEPORT, splice() zero-copy streams, circuit breaking, token bucket rate limiting, and real-time 3D network topology visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
